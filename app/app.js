@@ -10,3 +10,9 @@ function returnEven(array) {
   return newArray
 }
 
+let nameArray = [
+  {
+    Keith: 30,
+    Alyssa: 26
+  }
+]
