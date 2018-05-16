@@ -1,0 +1,13 @@
+body {
+  display:flex;
+  justify-content: center;
+}
+
+p {
+  color: burlywood;
+  font-size: 30em;
+  transform: rotate(45deg);
+  text-shadow: 15px 15px 2px rgb(36, 181, 36),
+                30px 30px 2px rgb(26, 126, 26),
+                45px 45px 2px rgb(14, 67, 14);
+}
