@@ -16,3 +16,7 @@ let nameArray = [
     Alyssa: 26
   }
 ]
+
+array.reduce(function(accum, current) {
+  return accum * current;
+})
